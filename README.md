@@ -51,6 +51,15 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
 [Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
 
+Link de Acesso ao Serviço Heroku:
+http://apiregisterperson.herokuapp.com/dio/
+
+
+
+Test Heroku
+
+<a href="https://ibb.co/c1Lkd5R"><img src="https://i.ibb.co/Cz2mFd4/Teste-Servico.jpg" alt="Teste-Servico" border="0"></a>
+
 email:sergio.desenvolvedor.web@gmail.com
 
 
